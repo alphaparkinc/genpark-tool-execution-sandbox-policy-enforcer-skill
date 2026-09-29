@@ -1,0 +1,6 @@
+name: genpark-tool-execution-sandbox-policy-enforcer-skill
+version: 1.0.0
+description: Security policy sandbox enforcer validating file path boundaries and restricted command execution
+command: python
+args:
+  - mcp_server.py
