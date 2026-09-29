@@ -1,0 +1,20 @@
+{
+  "name": "genpark-tool-execution-sandbox-policy-enforcer-skill",
+  "version": "1.0.0",
+  "description": "Security policy sandbox enforcer validating file path boundaries and restricted command execution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "security-sandbox",
+    "policy-enforcer",
+    "path-traversal",
+    "command-filter",
+    "agent-safety",
+    "python-standard-library",
+    "agent-skills",
+    "developer-tools",
+    "defense",
+    "least-privilege"
+  ]
+}
